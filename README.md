@@ -1,2 +1,6 @@
 This is the first project from TOP's curriculum which is focused on practicing and showcasing foundational html skills.
-The project has four stages/iterations: The first stage involves creating the index.html file within this directory and creating the usual boilerplate html and adding a "h1" heading.
+The project has four stages/iterations:
+The first stage involves creating the index.html file within this directory and creating the usual boilerplate html and adding a "h1" heading.
+The second stage involved creating a separate directory for recipes and adding a html file named after the recipe i.e. stuffing.html. A link is then to be added to the index file that references the newly created html file.
+The third stage provides the outline for the recipe file. A "h1" heading with the name of the recipe is added, followed by an image of the recipe with an appropriately sized "Description" heading added under the image followed by a paragraph. Under the description is an unordered list with a heading called "Ingredients" which is followed by an ordered list labeled "Steps".
+The fourth stage is to add two more recipe files and repeat stage three while also making sure the index.html file has the new links for the two new recipe files.
