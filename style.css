@@ -1,0 +1,17 @@
+/* style-index.css */
+.header,
+.subheader {
+    background-color: blue;
+    color: darkorchid;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.subheader {
+    background-color: lightblue;
+}
+
+.list {
+    background-color: cornflowerblue;
+    color: darkorchid;
+}
